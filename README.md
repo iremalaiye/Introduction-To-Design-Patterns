@@ -6,3 +6,4 @@ Composition-Delegation
 Encapsulation  
 Method Overriding  
 Shadowing  
+Single Responsibility Principle (SRP)
